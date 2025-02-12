@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.main-container {
+    max-width: 80vw;
+    height: 100vh;
+    margin-left: 420px;
+    margin-right: 56px;
+    top: 1%;
+  }
+  
+
+.portifolio-container{
+    height: 48vh;
+    padding-top: 16px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #121212;
+}
+
+.greeting-container{
+height: 68vh;
+  padding-top: 16px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #121212;
+}
+
+.greeting-container #greeting{
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 48px; 
+  margin: 24px;
+
+}
